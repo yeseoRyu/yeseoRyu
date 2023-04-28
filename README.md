@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **java and spring**
 
-- 🔭 I’m currently working on [TreeManagement](http://snd.synology.me:9955/)
-
 - 📫 How to reach me **yesoe0502@naver.com**
 
 <h3 align="left">Languages and Tools:</h3>
