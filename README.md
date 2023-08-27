@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolchvita&label=Profile%20views&color=0e75b6&style=flat" alt="dolchvita" /> </p>
 
-- 💬 Ask me about **java and spring**
-
 - 📫 How to reach me **yesoe0502@naver.com**
 
 <h3 align="left">Languages and Tools:</h3>
