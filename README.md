@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm yeseo</h1>
-<h3 align="center">who learns like a pro and breaks like an artist</h3>
+<h1 align="center">ＤＯＬＣＨＶＩＴＡ</h1>
+<h3 align="center">ＡＯＳ ｄｅｖｅｌｏｐｅｒ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolchvita&label=Profile%20views&color=0e75b6&style=flat" alt="dolchvita" /> </p>
 
 - 📫 How to reach me **yesoe0502@naver.com**
-
+<p align="left">
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
     <!-- 안드로이드 -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <!--코틀린 -->
+ <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
     <!-- 자바 -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
       <!-- 깃 -->
@@ -30,10 +31,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   -->
 
-
-  <!--코틀린
-  <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
-  -->
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dolchvita&show_icons=true&locale=en" alt="dolchvita" /></p>
 
