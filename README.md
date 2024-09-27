@@ -1,5 +1,3 @@
-<h1 align="center">ＤＯＬＣＨＶＩＴＡ</h1>
-<h3 align="center">ＡＯＳ ｄｅｖｅｌｏｐｅｒ s</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolchvita&label=Profile%20views&color=0e75b6&style=flat" alt="dolchvita" /> </p>
 
