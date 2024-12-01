@@ -1,5 +1,5 @@
-<h1 align="center">JAVA & AOS </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dolchvita&label=Profile%20views&color=0e75b6&style=flat" alt="dolchvita" /> </p>
+<h1 align="center">  </h1>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dolchvita&label=Profile%20views&color=0e75b6&style=flat" alt="dolchvita" /> </p> -->
 
 - 📫 How to reach me **yesoe0502@naver.com**
   
